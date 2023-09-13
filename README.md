@@ -16,10 +16,10 @@ Removing a goal from the list is easy. Just tap on the goal you want to delete, 
 I've utilized the FlatList component to enhance performance. This choice was made over ScrollView to ensure smoother scrolling and better memory management, especially when dealing with a potentially long list of goals.
 
 ## Technologies Used
-.React Native
-.UseState hook
-.Styled Components
-.FlatList
+. React Native
+. UseState hook
+. Styled Components
+. FlatList
 
 # Getting Started
 To run this app on your machine, follow these steps:
